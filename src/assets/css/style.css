@@ -1,0 +1,11 @@
+/* $font_path: "~@/assets/fonts/";
+
+@font-face {
+  font-family: "Vazir";
+  src: url($font_path+"Vazir-Medium.eot");
+  src: url($font_path+"Vazir-Medium.eot?#iefix") format("embedded-opentype"),
+    url($font_path+"Vazir-Medium.woff2") format("woff2"),
+    url($font_path+"Vazir-Medium.woff") format("woff");
+  font-style: normal;
+  font-weight: 400;
+} */
